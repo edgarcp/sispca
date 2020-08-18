@@ -1,0 +1,9 @@
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaDatos\obj\Debug\CapaDatos.pdb

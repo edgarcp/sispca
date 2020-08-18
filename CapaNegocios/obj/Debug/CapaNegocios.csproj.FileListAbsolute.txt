@@ -1,0 +1,11 @@
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaNegocios\obj\Debug\CapaNegocios.pdb

@@ -1,0 +1,5 @@
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaEntidades\obj\Debug\CapaEntidades.pdb

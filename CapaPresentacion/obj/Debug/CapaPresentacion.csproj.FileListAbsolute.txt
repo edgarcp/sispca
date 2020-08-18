@@ -1,0 +1,15 @@
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\edgar\OneDrive\Documentos\Proyectos .net\WinForm\Proyecto PCA\public\sispca\CapaPresentacion\bin\Debug\CapaNegocios.pdb
